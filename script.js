@@ -129,7 +129,7 @@
     jsMenuNode.querySelector(`.${menuClassesNames.toggleClass}`).addEventListener('click', toggleMenu);
   })();
   function isDesktopView() {
-    return window.innerWidth > 1200; // You can adjust the threshold as needed
+    return window.innerWidth > 1400; // You can adjust the threshold as needed
 }
 
 // Function to redirect to another HTML file if in desktop view
