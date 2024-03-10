@@ -135,7 +135,7 @@
 // Function to redirect to another HTML file if in desktop view
 function redirectToDesktopPage() {
     if (isDesktopView()) {
-        window.location.href = '/index.html'; // Change 'desktop_page.html' to the desired HTML file
+        window.location.href = 'https://yasoobzaidi.github.io/filoshare/'; // Change 'desktop_page.html' to the desired HTML file
     }
 }
 
